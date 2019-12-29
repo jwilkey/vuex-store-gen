@@ -1,0 +1,23 @@
+{
+  "name": "vuex-store-gen",
+  "version": "1.0.0",
+  "description": "A utility for generating commonplace vuex functionality given a state object",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilkey/vuex-store-gen.git"
+  },
+  "keywords": [
+    "vuex",
+    "vue"
+  ],
+  "author": "Justin Wilkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwilkey/vuex-store-gen/issues"
+  },
+  "homepage": "https://github.com/jwilkey/vuex-store-gen#readme"
+}
